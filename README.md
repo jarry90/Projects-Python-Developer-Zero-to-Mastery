@@ -1,4 +1,4 @@
-# Projects from Andrei Neagoie's Python Developer: Zero to Mastery Course
+# Projects from Zero To Mastery Academy's Python Developer: Zero to Mastery Course
 
 ## Email Sender
 
